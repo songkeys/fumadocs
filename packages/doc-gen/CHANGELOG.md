@@ -1,5 +1,13 @@
 # fumadocs-docgen
 
+## 1.2.1
+
+### Patch Changes
+
+- be820c4: Bump deps
+- Updated dependencies [be820c4]
+  - fumadocs-typescript@2.1.1
+
 ## 1.2.0
 
 ### Minor Changes
